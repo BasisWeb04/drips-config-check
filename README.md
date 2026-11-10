@@ -2,7 +2,7 @@
 
 This small command-line tool checks campaign JSON before launch. Its JSON format is a stand-in I designed from the job posting, not Drips' real configuration format.
 
-A two-minute screen recording of the tool running is in [demo/demo.mp4](demo/demo.mp4).
+A two-minute screen recording of the tool running: [watch it here](https://basisweb04.github.io/drips-config-check/demo/demo.mp4). The file is demo/demo.mp4.
 
 It uses Python 3.11 or newer and the standard library only.
 
