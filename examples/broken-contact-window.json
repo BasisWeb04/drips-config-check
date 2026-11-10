@@ -1,0 +1,7 @@
+{
+  "data_fields": [],
+  "segments": ["members"],
+  "audience": {"segment": "members"},
+  "schedule": {"start": "2026-12-01T08:00:00Z", "end": "2026-12-31T17:00:00Z", "contact_window": {"start": "07:30", "end": "22:00", "timezone": "campaign"}},
+  "flow": {"start": "call", "steps": [{"id": "call", "type": "call", "next": null}]}
+}

@@ -1,0 +1,7 @@
+{
+  "data_fields": ["first_name"],
+  "segments": ["members"],
+  "audience": {"segment": "members"},
+  "schedule": {"start": "2026-12-01T08:00:00Z", "end": "2026-12-31T17:00:00Z", "contact_window": {"start": "08:00", "end": "21:00", "timezone": "recipient"}},
+  "flow": {"start": "welcome", "steps": [{"id": "welcome", "type": "sms", "message": "Hi {{first_name}}, your renewal is ready.", "next": null}]}
+}
